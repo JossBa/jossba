@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently studying Media and Computer Science at HTW Berlin and working part time as a mobile developer and UI designer.
+I am currently studying Digital Media and Computer Science at HTW Berlin and working part time as a web developer and UI/UX designer.
+
+
