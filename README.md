@@ -17,10 +17,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🚀  Highly motivated International Media and Computing graduate with first-class degree and proven development skills. <br/>
- 📱  Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. <br/>
- 💼  Currently working as a frontend developer and team lead of working students at a Berlin digital agency. <br/>
- 💜  Passionate about clean code and UX-Design.<br/>
+ 🚀  Highly motivated International Media and Computing graduate with first-class degree and proven development skills. <br/><br/>
+ 
+ 📱  Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. <br/><br/>
+ 
+ 💼  Currently working as a frontend developer and team lead of working students at a Berlin digital agency. <br/><br/>
+ 
+ 💜  Passionate about clean code and UX-Design.<br/><br/>
 
 #### - but that's not all. If you want to get to know me or have a job opportunity for me, please don't hersitate and shoot me a message! 📨
+
+
+🙏 Thanks for stopping by! <br/>
+
+![Thanks](https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif)
 
