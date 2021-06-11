@@ -1,7 +1,7 @@
 ## Hi there 👋!
 
 
-### Here's a brief summary about me:
+Welcome to my repo. Before you have a look at my projects - here's a brief summary about me: <br/>
 
 <!--
 **JossBa/jossba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
