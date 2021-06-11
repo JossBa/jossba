@@ -26,9 +26,9 @@ Here are some ideas to get you started:
  💜  Passionate about clean code and UX-Design.<br/>
 
 #### - but that's not all. If you want to get to know me or have a job opportunity for me, please don't hersitate and shoot me a message! 📨
+<br/><br/>
 
-
-🙏 Thanks for stopping by! <br/>
+🙏 Thanks for stopping by! <br/><br/>
 
 ![Thanks](https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif)
 
