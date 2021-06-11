@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently studying Digital Media and Computer Science at HTW Berlin and working part time as a web developer and UI/UX designer.
+## 🚀  Highly motivated International Media and Computing graduate with first-class degree and proven development skills. 
 
+## 📱  Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. 
 
+## 💼  Currently working as a frontend developer and team lead of working students at a Berlin digital agency. 
+
+## 💜  Passionate about clean code and UX-Design.
