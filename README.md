@@ -1,6 +1,6 @@
 ## Hi there 👋!
 
-<br/><br/>
+<br/>
 Welcome to my repo. Before you have a look at my projects - here's a brief summary about me: <br/><br/>
 
 <!--
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🚀  Highly motivated International Media and Computing graduate with first-class degree and proven development skills. <br/>
+ 🚀 - Highly motivated International Media and Computing graduate with first-class degree and proven development skills. <br/>
  
- 📱  Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. <br/>
+ 📱 - Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. <br/>
  
- 💼  Currently working as a frontend developer and team lead of working students at a Berlin digital agency. <br/>
+ 💼 - Currently working as a frontend developer and team lead of working students at a Berlin digital agency. <br/>
  
- 💜  Passionate about clean code and UX-Design.<br/><br/><br/>
+ 💜 - Passionate about clean code and UX-Design.<br/><br/><br/>
 
 #### - but that's not all. If you want to get to know me or have a job opportunity for me, please don't hersitate and shoot me a message! 📨
 <br/>
