@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 and welcome to my git repo!
+
+### Here's a brief summary about me - but that's not all. If you want to get to know me, just send me a message! 📨
 
 <!--
 **JossBa/jossba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀  Highly motivated International Media and Computing graduate with first-class degree and proven development skills. 
+#### 🚀  Highly motivated International Media and Computing graduate with first-class degree and proven development skills. 
 
-## 📱  Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. 
+#### 📱  Experienced as an iOS engineer, where I contributed to two state of the art health applications and acquired knowledge in functional programming. 
 
-## 💼  Currently working as a frontend developer and team lead of working students at a Berlin digital agency. 
+#### 💼  Currently working as a frontend developer and team lead of working students at a Berlin digital agency. 
 
-## 💜  Passionate about clean code and UX-Design.
+#### 💜  Passionate about clean code and UX-Design.
